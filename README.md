@@ -51,6 +51,7 @@ We would like to perform statistical analysis on following metrics:
 - HorsePower
 - Fuel Efficiency 
 - Safety rating
+
 The study would need to involve sedans, suvs, and trucks
 
 HO: There is NO statistical significant difference on defined metrics between MechaCar and competition.
