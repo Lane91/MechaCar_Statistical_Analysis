@@ -45,7 +45,7 @@ Since the p-value of lot 3 t-test is less than 0.05, we  reject the NULL hypothe
 
 ## Study Design: MechaCar vs Competition
 
-A study on the usefullness, cost effectiveness, and durability would show how MechaCar performs against the competition in the three keu factors that car buyers care about.
+A study on the usefullness, cost effectiveness, and durability would show how MechaCar performs against the competition in the three key factors that car buyers care about.
 
 We would like to perform statistical analysis on following metrics:
 - HorsePower
